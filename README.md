@@ -1,5 +1,5 @@
 # ComputerVision
-Different Computer Vision Techniques from the basics to advanced concepts
+Different Computer Vision Techniques from the basics to advanced concepts using OpenCV.
 
 
 
